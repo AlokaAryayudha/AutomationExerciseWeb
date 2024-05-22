@@ -1,2 +1,2 @@
-# AutomationSaucedemo
-Automation SauceDemo 
+# AutomationExerciseWeb
+AutomationExerciseWeb
